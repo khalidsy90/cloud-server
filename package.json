@@ -1,0 +1,19 @@
+{
+  "name": "class16",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "eb": "^0.0.1",
+    "express": "^4.17.1",
+    "jest": "^27.3.1"
+  }
+}
